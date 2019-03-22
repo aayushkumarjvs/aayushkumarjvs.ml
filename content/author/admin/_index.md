@@ -16,37 +16,15 @@ role = "Junior Year Undergrad"
 organizations = [ { name = "SRM IST", url = "http://www.srmuniv.ac.in/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
-]
+interests = []
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
 
-# List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -61,17 +39,22 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://twitter.com/Aayushkumarjvs"
 
 [[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  icon = "goodreads"
+  icon_pack = "fab"
+  link = "https://goodreads.com/aayushkumarjvs"
+
+  [[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/aayush-kumar-ai"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/aayushkumarjvs"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -81,7 +64,9 @@ user_groups = ["Researchers", "Visitors"]
 #   link = "files/cv.pdf"
 
 +++
+Hi, I'm Aayush, an undergrad at SRM IST, India, pursuing engineering in Information Technology.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I love to develop open-source software and sometimes surf Github more than facebook or twitter. Collaborating with people and making new things makes me happy! I am passionate about Artificial Intelligence, Machine Learning, Software Development, Open Source and all things related to technology. I love challenges, competitions and creating an organized schedule for completing a task. Currently, I am working in the field of Data Analysis and Data Minning, I also love to work on Computer Vision and Natural Language Understanding related problems. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I'm a hybrid kid, 💉Half-blood Banarsi and 💉Half-blood Hyderabadi, which makes me a completely young 🔥💉hot-blooded Indian, and I'm quite proud of my ethnicity, having best of both the worlds🌎!
+In my free time, I love to jog🏃, read books📚, listen to music or podcasts🎧, watch movies📽️ and solo travelling🗺️
