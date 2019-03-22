@@ -5,21 +5,21 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "Aayush Kumar"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://aayushkumarjvs.net/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = ""
+copyright = "Aayush Kumar"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "aayushkumarjvs"
 
 ############################
 ## Advanced options below ##
@@ -45,6 +45,8 @@ preserveTaxonomyNames = true
 [outputs]
   home = [ "HTML", "CSS", "RSS", "JSON" ]
   section = [ "HTML", "RSS" ]
+  taxonomy = [ "HTML", "RSS" ]
+  taxonomyTerm = [ "HTML", "RSS" ]
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
@@ -54,14 +56,8 @@ preserveTaxonomyNames = true
 	latexDashes = true
   extensions = ["backslashLineBreak"]
 
-[imaging]
-  resampleFilter = "lanczos"
-  quality = 90
-  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
 # Taxonomies.
 [taxonomies]
-  tag = "tags"
   category = "categories"
-  publication_type = "publication_types"
-  author = "authors"
+  
