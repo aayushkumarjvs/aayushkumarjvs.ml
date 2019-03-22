@@ -58,10 +58,10 @@ interests = []
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+  [[social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "files/cv.pdf"
 
 +++
 Hi, I'm Aayush, an undergrad at SRM IST, India, pursuing engineering in Information Technology.
@@ -69,4 +69,5 @@ Hi, I'm Aayush, an undergrad at SRM IST, India, pursuing engineering in Informat
 I love to develop open-source software and sometimes surf Github more than facebook or twitter. Collaborating with people and making new things makes me happy! I am passionate about Artificial Intelligence, Machine Learning, Software Development, Open Source and all things related to technology. I love challenges, competitions and creating an organized schedule for completing a task. Currently, I am working in the field of Data Analysis and Data Minning, I also love to work on Computer Vision and Natural Language Understanding related problems. 
 
 I'm a hybrid kid, 💉Half-blood Banarsi and 💉Half-blood Hyderabadi, which makes me a completely young 🔥💉hot-blooded Indian, and I'm quite proud of my ethnicity, having best of both the worlds🌎!
+
 In my free time, I love to jog🏃, read books📚, listen to music or podcasts🎧, watch movies📽️ and solo travelling🗺️
