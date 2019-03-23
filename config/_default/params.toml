@@ -50,15 +50,15 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "aayushkumarjvs [at] gmail.com"
-phone = ""
-address = ""
+#email = "aayushkumarjvs [at] gmail.com"
+#phone = ""
+#address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """ """
+#office_hours = """ """
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
+#appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -66,7 +66,7 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/Aayushkumarjvs"},
   {icon = "github", icon_pack = "fab", name = "Github", link = "https://github.com/aayushkumarjvs"},
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/aayush-kumar-ai"},
-  {icon = "cv", icon_pack = "fas", name = "CV", link = "/files/cv.pdf"}
+  {icon = "cv", icon_pack = "ai", name = "CV", link = "/files/cv.pdf"}
   ]
 
 # Display a map.
