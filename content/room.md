@@ -11,11 +11,11 @@ In life, we some time commit mistakes, but there should always be room for impro
 * [Steven Paul Jobs](https://www.youtube.com/watch?v=pcT0pSewa7M&t=4733s)
 * [Chris Pratt](https://twitter.com/prattprattpratt)
 * [Barack Obama](https://en.wikipedia.org/wiki/Barack_Obama)
-* [Guido van Rossum](https://twitter.com/gvanrossum)
-* [Jack Dorsey](https://twitter.com/jack)
+* [Sundar Pichai](https://twitter.com/sundarpichai)
 * [Alexis Ohanian Sr](https://twitter.com/alexisohanian)
 * [Yuval Noah Harari](https://twitter.com/harari_yuval)
-
+* [Guido van Rossum](https://gvanrossum.github.io/)
+* [Naval Ravikanth](https://twitter.com/naval/)
 ## Books
 
 * [Factfulness by Hans Rosling](https://www.goodreads.com/book/show/34890015-factfulness)
