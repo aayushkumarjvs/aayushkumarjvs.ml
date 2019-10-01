@@ -9,17 +9,17 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Junior Year Undergrad"
+role = "Senior Year Undergrad"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "SRM IST", url = "http://www.srmuniv.ac.in/" } ]
+organizations = [ { name = "SRM IST", url = "https://www.srmist.edu.in/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = ""
+bio = "- eat to live kinda person"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "aayushkumarjvs[at]gmail[dot]com"
 
 # List (academic) interests or hobbies
 interests = []
